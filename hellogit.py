@@ -2,6 +2,6 @@ print("Hello git world")
 print("GITHUB")
 def hello():
     n=int(input("enter n: "))
-    if n==0: return "True"
-    else: return "Senthamil selvan"
+    if n==0: print("0")
+    else: print("Senthamil selvan")
 hello()
